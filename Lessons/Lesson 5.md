@@ -1,0 +1,57 @@
+die -> that
+slapen -> speak
+een uur -> one hour
+voor -> before
+half -> half
+
+Hoe laat is het nu?
+Hoe laat begin de les? De les begint om drie uur.
+Hoe laat stopt de les? De les stopt om tien voor vier.
+Hoe laat hebben we pauze? We hebben geen pauze.
+Hoe laat ga je naar de cursus? Ik ga on drie uur naar de cursus.
+
+Maandag
+Dinsdag
+Woensdag
+Donderdag
+Vrijdag
+Zaterdag
+Zondag
+
+Eergisteren -> day before yesterday
+Gisteren -> yesterday
+Vandaag -> today
+Morgen -> tomorrow
+Overmorgen -> day after tomorrow
+
+Het is zondag -> Today is Sunday
+Welke dag is het vandaag? Het is maandag.
+Welke dag is het morgen? Het is dinsdag.
+Overmorgen is het woensdag.
+
+Het is het begin van het weekend.
+
+Januari
+Februari
+Maart
+April
+Mei
+Juni
+Juli
+Augustus
+September
+Oktober
+November
+December
+
+want -> because
+
+de winter -> winter
+de lente -> spring
+de zomer -> summer
+de herfst -> autumn
+
+Kerst -> Christmas
+gezellig -> nice, cozy
+lekker -> tasty, nice
+
