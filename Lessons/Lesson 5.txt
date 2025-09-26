@@ -46,10 +46,10 @@ December
 
 want -> because
 
-de winter -> winter
-de lente  -> spring
-de zomer  -> summer
-de herfst -> autumn
+de winter         -> winter
+de voorjaar/lente -> spring
+de zomer          -> summer
+de najaar/herfst  -> autumn
 
 Kerst     -> Christmas
 gezellig  -> nice, cozy
